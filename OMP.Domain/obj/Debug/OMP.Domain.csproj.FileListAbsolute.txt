@@ -1,0 +1,9 @@
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\OMP.Domain.dll.config
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\OMP.Domain.dll
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\OMP.Domain.pdb
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\EntityFramework.dll
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\EntityFramework.xml
+G:\Development\Project\OMP\OMP\OMP.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\Development\Project\OMP\OMP\OMP.Domain\obj\Debug\OMP.Domain.dll
+G:\Development\Project\OMP\OMP\OMP.Domain\obj\Debug\OMP.Domain.pdb

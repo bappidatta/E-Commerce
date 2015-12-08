@@ -1,0 +1,9 @@
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\OMP.Service.dll
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\OMP.Service.pdb
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\OMP.Domain.dll
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\EntityFramework.dll
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\OMP.Domain.pdb
+G:\Development\Project\OMP\OMP\OMP.Service\bin\Debug\EntityFramework.xml
+G:\Development\Project\OMP\OMP\OMP.Service\obj\Debug\OMP.Service.csprojResolveAssemblyReference.cache
+G:\Development\Project\OMP\OMP\OMP.Service\obj\Debug\OMP.Service.dll
+G:\Development\Project\OMP\OMP\OMP.Service\obj\Debug\OMP.Service.pdb
